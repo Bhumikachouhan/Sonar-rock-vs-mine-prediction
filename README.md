@@ -20,17 +20,24 @@ The dataset contains 60 numerical features representing sonar signals.
 * NumPy
 * Pandas
 * Scikit-learn
+* VS Code
 
-## Steps Performed
+## Project Workflow
 
-1. Loaded the dataset
-2. Data preprocessing
-3. Train-test split
-4. Model training using Logistic Regression
-5. Model evaluation using accuracy score
+1. Import required libraries
+2. Load dataset
+3. Data preprocessing
+4. Train-test split
+5. Model training using Logistic Regression
+6. Model evaluation using accuracy score
+7. Prediction system
+
+## Model Used
+
+Logistic Regression
 
 ## Result
 The model successfully predicts whether the object is a rock or a mine with good accuracy.
 
-## Conclusion
+## Findings
 This project demonstrates how logistic regression can be used for binary classification problems.
