@@ -2,8 +2,12 @@
 
 This repository contains a Machine Learning project implemented using Python and Scikit-learn.
 
+---
+
 ## Objective
 The objective of this project is to build a machine learning model that can classify whether an object is a rock or a mine using sonar signals.
+
+---
 
 ## Dataset
 The dataset contains 60 numerical features representing sonar signals.
@@ -13,6 +17,7 @@ The dataset contains 60 numerical features representing sonar signals.
   - R → Rock
   - M → Mine
 
+---
 
 ## Tools Used
 
@@ -21,6 +26,8 @@ The dataset contains 60 numerical features representing sonar signals.
 * Pandas
 * Scikit-learn
 * VS Code
+
+---
 
 ## Project Workflow
 
@@ -32,12 +39,17 @@ The dataset contains 60 numerical features representing sonar signals.
 6. Model evaluation using accuracy score
 7. Prediction system
 
+---
+
 ## Model Used
 
 Logistic Regression
 
+---
+
 ## Result
 The model successfully predicts whether the object is a rock or a mine with good accuracy.
 
+---
 ## Findings
 This project demonstrates how logistic regression can be used for binary classification problems.
